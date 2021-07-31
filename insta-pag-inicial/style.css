@@ -97,6 +97,7 @@ body{
     color: #0095f6;
     font-size: 14px;
     font-weight: 600;
+    cursor: pointer;
 }
 
 .get-the-app{
